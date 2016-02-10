@@ -1,0 +1,27 @@
+_repo: A-Catalogue-of-Books-and-Announcements-of-Methuen-and-Company-October-1902_46506
+covers:
+- cover_type: archival
+  image_path: 46506/46506-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Methuen & Co.
+    alias: Methuen and Co.
+    gutenberg_agent_id: '6250'
+    url: http://www.gutenberg.org/2009/agents/6250
+description: ''
+gutenberg_issued: '2014-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- England'
+- !lcsh 'Methuen & Co. -- Catalogs'
+title: A Catalogue of Books and Announcements of Methuen and Company, October 1902
+url: http://www.gutenberg.org/ebooks/46506
